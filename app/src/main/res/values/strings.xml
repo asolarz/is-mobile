@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">is-mobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_list">Pobierz</string>
+
+    <string name="name_label">Nazwa:</string>
+    <string name="displaySize_label">Rozmiar:</string>
+    <string name="resolution_label">Rozdzielczość:</string>
+    <string name="screenType_label">Typ matrycy:</string>
+    <string name="touchpad_label">Touchpad:</string>
+    <string name="cpu_label">Procesor:</string>
+    <string name="cores_label">Rdzenie:</string>
+    <string name="freq_label">Częstotliwośc CPU:</string>
+    <string name="ram_label">RAM:</string>
+    <string name="space_label">Rozmiar dysku:</string>
+    <string name="discType_label">Dysk:</string>
+    <string name="gpu_label">GPU:</string>
+    <string name="gpuRam_label">VRAM:</string>
+    <string name="os_label">System:</string>
+    <string name="dvd_label">DVD:</string>
+</resources>
